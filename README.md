@@ -35,7 +35,7 @@ A complete web application for managing personal finances with an emphasis on se
 - Fully responsive UI built with Tailwind CSS  
 - Backend powered by Supabase with RLS (Row-Level Security)
 
-📁 **Repository:**[ _(Add the link once you upload it)_](https://github.com/JAST21/AdminFinance.git)
+📁 **Repository:**https://github.com/JAST21/AdminFinance.git
 
 ---
 
